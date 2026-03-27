@@ -1,5 +1,5 @@
 
-# 🚀 Graph Neural Network Based Intrusion Detection System (GNN-IDS)
+# Graph Neural Network Based Intrusion Detection System (GNN-IDS)
 
 **Graph Neural Network (GNN)-based Intrusion Detection System** for detecting **lateral movement attacks** in enterprise networks by modeling network activity as a graph instead of isolated events.
 
@@ -46,29 +46,6 @@ This enables detection of hidden attack patterns using **Graph Neural Networks (
 
 ---
 
-## 📂 Project Structure
-project-root/
-│
-├── src/
-│   ├── models.py
-│   ├── train_lm_edge.py
-│   ├── lm_edges.py
-│   ├── model_utils.py
-│   ├── ag_utils.py
-│   ├── gnn_ids_dataset1.ipynb
-│   └── gnn_ids_dataset2.ipynb
-│
-├── datasets/
-│   ├── public/
-│   └── synt/
-│
-├── mulval_attack_graph/
-│   ├── AttackGraph.dot
-│   └── AttackGraph.pdf
-│
-└── README.md
-
----
 
 ## 📊 Dataset
 **CIC-IDS2017**
