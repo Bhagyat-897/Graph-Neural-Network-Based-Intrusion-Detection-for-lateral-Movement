@@ -1,4 +1,4 @@
-```md
+
 # 🚀 Graph Neural Network Based Intrusion Detection System (GNN-IDS)
 
 **Graph Neural Network (GNN)-based Intrusion Detection System** for detecting **lateral movement attacks** in enterprise networks by modeling network activity as a graph instead of isolated events.
